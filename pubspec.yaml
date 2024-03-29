@@ -42,12 +42,13 @@ dependencies:
 
 
 dev_dependencies:
-  flutter_launcher_icons: "^0.12.0"
+  flutter_launcher_icons: ^0.13.1
 
 flutter_icons:
-  android: "launcher_icon"
+  android: true
   ios: true
   image_path: "assets/calculator_application.jpg"
+  
   flutter_test:
     sdk: flutter
 
